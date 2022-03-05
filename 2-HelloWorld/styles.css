@@ -1,0 +1,17 @@
+html, body{
+    padding:0px;
+    margin:0px;
+    background:#191a1d;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #44cff1;
+    height:100%;
+}
+
+canvas {
+    background:none;
+    margin:auto;
+    position:fixed;
+    left:20%;
+    top:50%;
+    transform:translateX(-40%) translateY(-50%);
+}
